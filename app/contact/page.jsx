@@ -40,7 +40,7 @@ export default function ContactPage() {
                             <Input
                                 id="email"
                                 type="email"
-                                placeholder="john@example.com"
+                                placeholder="547Mahn@gmail com"
                                 autoComplete="email"
                                 className="focus-visible:ring-primary"
                             />
@@ -91,10 +91,10 @@ export default function ContactPage() {
                             <div>
                                 <h4 className="font-medium">Email</h4>
                                 <Link
-                                    href="mailto:mahnoor@example.com"
+                                    href="mailto:547Mahn@gmail com"
                                     className="text-muted-foreground hover:text-primary hover:underline"
                                 >
-                                    mahnoor@example.com
+                                    547Mahn@gmail com
                                 </Link>
                             </div>
                         </div>
@@ -106,10 +106,10 @@ export default function ContactPage() {
                             <div>
                                 <h4 className="font-medium">Phone</h4>
                                 <Link
-                                    href="tel:+923001234567"
+                                    href="tel:+923146664536"
                                     className="text-muted-foreground hover:text-primary hover:underline"
                                 >
-                                    +92 300 1234567
+                                    +92 3146664536
                                 </Link>
                             </div>
                         </div>
